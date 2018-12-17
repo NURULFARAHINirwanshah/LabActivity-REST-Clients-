@@ -1,5 +1,5 @@
 # LabActivity-REST-Clients-
 
-![](https://github.com/MuhdSyahmi/Lab-Activity---REST-Clients/blob/master/Screenshot/1st.JPG)
+![](https://github.com/NURULFARAHINirwanshah/LabActivity-REST-Clients-/blob/master/Interface/picture1.png)
 
-![](https://github.com/MuhdSyahmi/Lab-Activity---REST-Clients/blob/master/Screenshot/1st.JPG)
+![](https://github.com/NURULFARAHINirwanshah/LabActivity-REST-Clients-/blob/master/Interface/picture2.png)
